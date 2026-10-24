@@ -26,6 +26,10 @@ Quando quero tirar a linguagem visual de uma referência e deixar pronta pra imp
 - [`img-to-html2`](./img-to-html2): wireframe ASCII tipado → **aprovação** → detect fontes (fal-ai OCR + Gemini 3.1 Pro / OpenRouter) → `typography.css` + `index.html` shell
 - [`img-to-html3`](./img-to-html3): toolbox (fontes, cores pixel, PNG, SVG/ASCII) dirigida por prompt humano — sem pipeline fixo
 
+## Landing pages
+
+- [`landing-from-images`](./landing-from-images): imagens completas ou divididas → landing page estática fiel, responsiva e animada, com verificação e correções autônomas. Inclui auxiliares para Windows e [instalação pessoal no Codex](./landing-from-images/README.md).
+
 ## Imagem
 
 Gerar, converter, brincar com PNG.

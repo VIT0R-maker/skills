@@ -1,0 +1,6 @@
+interface:
+  display_name: "Landing from Images"
+  short_description: "Imagens em landing pages fiéis, responsivas e verificadas"
+  default_prompt: "Use $landing-from-images: reproduza as imagens anexadas em uma landing page responsiva, com animações e verificação autônoma."
+policy:
+  allow_implicit_invocation: false
